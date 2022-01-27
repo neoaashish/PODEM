@@ -1,0 +1,37 @@
+101xx
+001xx
+x10xx
+x00xx
+1011x
+1001x
+x1111
+x1101
+x00x1
+x00x0
+101xx
+100xx
+x1111
+x101x
+00xxx
+101xx
+x10xx
+x1111
+x10xx
+x111x
+x00x1
+xx111
+00xxx
+x10xx
+xx11x
+x00x1
+00xxx
+x10xx
+x011x
+x10x0
+1x1xx
+00xxx
+x10xx
+x011x
+TOTAL NUMBER OF SA LINES = 34.000 
+TOTAL NUMBER OF UNTESTABLE FAULTS = 0.000 
+FAULT COVERAGE = 100.000 Percent
